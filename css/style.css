@@ -12,18 +12,18 @@
 
 .col20 {
     height: 50px;
-    border: 1px solid orange;
+    border: 1px solid rgb(255, 89, 0);
     width: 20%;
 }
 
 .col60 {
     height: 50px;
-    border: 1px solid orange;
+    border: 1px solid rgb(255, 89, 0);
     width: 60%;
 }
 
 .arancio {
-    background-color: orange;
+    background-color: rgb(255, 89, 0);
 }
 
 
@@ -52,4 +52,12 @@ li {
     height: auto;
     margin-top: 12px;
     margin-left: 350px;
+}
+
+.icons {
+    font-size: 15px;
+    color: white;
+    margin-top: -40px;
+    margin-left: 1200px;
+    padding: 10px;
 }
