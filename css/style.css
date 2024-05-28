@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.col20 {
+    height: 50px;
+    border: 1px solid orange;
+    width: 20%;
+}
+
+.col60 {
+    height: 50px;
+    border: 1px solid orange;
+    width: 60%;
+}
+
+.arancio {
+    background-color: orange;
+}
+
+
+
+.center {
+    text-align: center;
+    line-height: 50px;
+}
+
+
+
+ul {
+    margin-left: 120px;
+    list-style: none;
+    color: white;
+
+}
+
+li {
+    display: inline-block;
+}
+
+.logo {
+    background-position: center;
+    width: 125px;
+    height: auto;
+    margin-top: 12px;
+    margin-left: 350px;
+}
