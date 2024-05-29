@@ -61,3 +61,25 @@ li {
     margin-left: 1200px;
     padding: 10px;
 }
+
+main {
+    margin: 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+
+}
+
+.col-33 {
+    width: calc(100% / 3);
+}
+
+.content {
+    background-color: red;
+    border: 1px solid black;
+    height: 300px;
+    margin: 10px;
+
+}
