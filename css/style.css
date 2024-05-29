@@ -91,15 +91,23 @@ main {
     padding: 10px;
     color: white;
     position: absolute;
-    bottom: 50px;
+    bottom: 80px;
     left: 0;
 
 
 }
 
+.text-red {
+    color: red;
+}
+
 .red {
     background-color: red;
 
+}
+
+.float {
+    float: left;
 }
 
 .green {
@@ -110,7 +118,7 @@ main {
     padding: 10px;
     color: white;
     position: absolute;
-    bottom: 50px;
+    bottom: 80px;
     left: 60px;
 }
 
