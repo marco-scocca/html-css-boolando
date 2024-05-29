@@ -77,9 +77,11 @@ main {
 }
 
 .content {
-    background-color: red;
-    border: 1px solid black;
-    height: 300px;
     margin: 10px;
 
+}
+
+img {
+    width: 325px;
+    height: 400px;
 }
