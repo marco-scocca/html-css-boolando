@@ -78,21 +78,40 @@ main {
 
 .content {
     margin: 10px;
+    position: relative;
 
 }
 
 img {
-    width: 325px;
-    height: 400px;
+    width: 100%;
+
 }
 
 .label {
     padding: 10px;
     color: white;
+    position: absolute;
+    bottom: 50px;
+    left: 0;
+
 
 }
 
 .red {
     background-color: red;
+
+}
+
+.green {
+    background-color: green;
+}
+
+.label-sostenibilita {
+    padding: 10px;
+    color: white;
+    position: absolute;
+    bottom: 50px;
+    left: 60px;
+
 
 }
